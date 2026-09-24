@@ -19,7 +19,6 @@ namespace es_1
         }
         
 
-
         static void Inserisci()
         {
 
